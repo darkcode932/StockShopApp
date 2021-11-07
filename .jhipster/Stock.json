@@ -1,0 +1,26 @@
+{
+  "fields": [
+    {
+      "fieldName": "idP",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "productName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "entryDate",
+      "fieldType": "Instant"
+    },
+    {
+      "fieldName": "releaseDate",
+      "fieldType": "Instant"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "infinite-scroll",
+  "name": "Stock",
+  "changelogDate": "20210929102858"
+}

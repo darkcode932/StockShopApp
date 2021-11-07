@@ -1,0 +1,27 @@
+{
+  "stockShopApp": {
+    "stock": {
+      "home": {
+        "title": "Stocks",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Stock erstellen",
+        "createOrEditLabel": "Stock erstellen oder bearbeiten",
+        "notFound": "Keine Stocks gefunden"
+      },
+      "created": "Stock erstellt mit ID {{ param }}",
+      "updated": "Stock aktualisiert mit ID {{ param }}",
+      "deleted": "Stock gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Stock {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Stock"
+      },
+      "id": "ID",
+      "idP": "Id P",
+      "productName": "Product Name",
+      "entryDate": "Entry Date",
+      "releaseDate": "Release Date"
+    }
+  }
+}

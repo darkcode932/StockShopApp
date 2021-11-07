@@ -1,0 +1,27 @@
+{
+  "stockShopApp": {
+    "administrator": {
+      "home": {
+        "title": "Administrators",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Administrator",
+        "createOrEditLabel": "Créer ou éditer un Administrator",
+        "notFound": "Aucun Administrator trouvé"
+      },
+      "created": "Un nouveau Administrator a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Administrator avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Administrator avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Administrator {{ id }} ?"
+      },
+      "detail": {
+        "title": "Administrator"
+      },
+      "id": "ID",
+      "idA": "Id A",
+      "firstNameA": "First Name A",
+      "lastNameA": "Last Name A",
+      "birthdayA": "Birthday A"
+    }
+  }
+}

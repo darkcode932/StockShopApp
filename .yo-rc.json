@@ -42,6 +42,8 @@
     "devServerPort": 9060,
     "clientPackageManager": "npm",
     "languages": ["fr", "zh-tw", "en", "de", "ja", "es"],
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "lastLiquibaseTimestamp": 1632911338000,
+    "entities": ["Product", "Client", "Administrator", "Stock"]
   }
 }

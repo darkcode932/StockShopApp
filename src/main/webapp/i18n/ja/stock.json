@@ -1,0 +1,27 @@
+{
+  "stockShopApp": {
+    "stock": {
+      "home": {
+        "title": "Stocks",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Stock を追加",
+        "createOrEditLabel": "Stockを追加または編集",
+        "notFound": "No Stocks found"
+      },
+      "created": "A new Stock is created with identifier {{ param }}",
+      "updated": "A Stock is updated with identifier {{ param }}",
+      "deleted": "A Stock is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Stock {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Stock"
+      },
+      "id": "ID",
+      "idP": "Id P",
+      "productName": "Product Name",
+      "entryDate": "Entry Date",
+      "releaseDate": "Release Date"
+    }
+  }
+}

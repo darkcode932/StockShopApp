@@ -1,0 +1,28 @@
+{
+  "stockShopApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Product を追加",
+        "createOrEditLabel": "Productを追加または編集",
+        "notFound": "No Products found"
+      },
+      "created": "A new Product is created with identifier {{ param }}",
+      "updated": "A Product is updated with identifier {{ param }}",
+      "deleted": "A Product is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Product {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "idP": "Id P",
+      "title": "Title",
+      "type": "Type",
+      "retentionDate": "Retention Date",
+      "description": "Description"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "stockShopApp": {
+    "administrator": {
+      "home": {
+        "title": "Administrators",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Administrator を追加",
+        "createOrEditLabel": "Administratorを追加または編集",
+        "notFound": "No Administrators found"
+      },
+      "created": "A new Administrator is created with identifier {{ param }}",
+      "updated": "A Administrator is updated with identifier {{ param }}",
+      "deleted": "A Administrator is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Administrator {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Administrator"
+      },
+      "id": "ID",
+      "idA": "Id A",
+      "firstNameA": "First Name A",
+      "lastNameA": "Last Name A",
+      "birthdayA": "Birthday A"
+    }
+  }
+}

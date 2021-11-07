@@ -1,0 +1,30 @@
+{
+  "fields": [
+    {
+      "fieldName": "idC",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "firstNameC",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "lastNameC",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "email",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "phoneNumberC",
+      "fieldType": "Long"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "infinite-scroll",
+  "name": "Client",
+  "changelogDate": "20210929044249"
+}

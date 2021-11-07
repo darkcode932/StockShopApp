@@ -1,0 +1,26 @@
+{
+  "fields": [
+    {
+      "fieldName": "idA",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "firstNameA",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "lastNameA",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "birthdayA",
+      "fieldType": "Instant"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "pagination",
+  "name": "Administrator",
+  "changelogDate": "20210929044006"
+}

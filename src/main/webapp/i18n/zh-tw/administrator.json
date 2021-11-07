@@ -1,0 +1,27 @@
+{
+  "stockShopApp": {
+    "administrator": {
+      "home": {
+        "title": "Administrators",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "建立一筆新的 Administrator",
+        "createOrEditLabel": "建立或編輯 Administrator",
+        "notFound": "No Administrators found"
+      },
+      "created": "新的 Administrator 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 Administrator 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 Administrator 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 Administrator {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "Administrator"
+      },
+      "id": "ID",
+      "idA": "Id A",
+      "firstNameA": "First Name A",
+      "lastNameA": "Last Name A",
+      "birthdayA": "Birthday A"
+    }
+  }
+}
